@@ -3,3 +3,8 @@ print("Sandra Anohina")
 print("GitHub konts: skSandraA")
 print("e-pasts: anohina.sandra@gmail.lv")
 print("Hobijs: pērļošana, tamborēšana")
+print("Vineta Tomsone")
+print("GitHub konts: vinetat")
+print("e-pasts: vineta.tomsone@liepaja.edu.lv")
+print("Hobijs: āra aktivitātes")
+
