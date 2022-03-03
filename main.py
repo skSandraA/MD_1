@@ -7,4 +7,6 @@ print("Vineta Tomsone")
 print("GitHub konts: vinetat")
 print("e-pasts: vineta.tomsone@liepaja.edu.lv")
 print("Hobijs: āra aktivitātes")
+print("Vineta")
+print("Sveiciens 3.martā")
 
