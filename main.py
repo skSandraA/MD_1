@@ -10,3 +10,4 @@ print("Hobijs: āra aktivitātes")
 print("Vineta")
 print("Sveiciens 3.martā")
 
+print('Kalvis papildina kodu')
